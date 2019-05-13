@@ -1,6 +1,6 @@
 Logistic regression analysis of populations of electrophysiological models to assess proarrythmic risk.
 
-                                      Matlab code.
+                                      Matlab code
 
 Contents:
 __________________________________________________________________________________________________________
@@ -52,6 +52,6 @@ ________________________________________________________________________________
 Reference:
 Morotti S & Grandi E.
 Logistic regression analysis of populations of electrophysiological models to assess proarrythmic risk.
-MethodsX. 2016. http://dx.doi.org/10.1016/j.mex.2016.12.002
+MethodsX. 2016 Dec 23; 4:25-34. doi: http://dx.doi.org/10.1016/j.mex.2016.12.002
 
 Please cite the above paper when using this code.
