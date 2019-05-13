@@ -1,5 +1,14 @@
 Logistic regression analysis of populations of electrophysiological models to assess proarrythmic risk.
 
+This package contains the code used to investigate proarrythmic mechanisms on a population of 
+electrophysiological models with the method of multivariable logistic regression.
+In this example, the Morotti et al. model of human atrial myocyte (J Mol Cell Cardiol. 2016 Jul;96:63-71,
+available for download on this website) is used to create a family of 1000 model variants by perturbing
+model parameters, and to simulate an electrophysiological protocol that enhances EAD proclivity. 
+Logistic regression analysis allows relating changes in model parameters to the presence/absence of EADs.
+
+
+
                                       Matlab code
 
 Contents:
